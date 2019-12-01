@@ -1,0 +1,19 @@
+html, 
+body, 
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%
+}
+
+
+.esri-expand__content--expanded {
+  opacity: 1;
+  background-color:#F6F3E7; 
+  padding: 20px;
+  overflow: auto;
+  word-wrap: normal;
+  width: 300px;
+  height: auto;  
+}
