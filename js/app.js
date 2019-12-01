@@ -129,7 +129,7 @@ function(
     '<br><span style="color: #EA9E49 ; font-weight: bold">Photo:</span> {PIC}' +
     '<br><span style="color: #EA9E49 ; font-weight: bold">Transport?:</span> {TRANSPORT}' + 
     '<br><span style="color: #EA9E49 ; font-weight: bold">Transport Destination.:</span> {TRANS_DEST} ' + 
-    '<br><span style="color: #EA9E49 ; font-weight: bold">Transport Org:</span> {TRANS_DEST} ' +  
+    '<br><span style="color: #EA9E49 ; font-weight: bold">Transport Org:</span> {TRANS_ORG} ' +  
     '<br><span style="color: #EA9E49 ; font-weight: bold">Location:</span> {LOC_DESC}' + 
     '<br><br><span style="color: #EA9E49">{COMMENTS}</span>';
 
