@@ -66,7 +66,7 @@ function(
     });
     view.ui.add(homeBtn, 'top-left');
 
-    const expandContent = '<h3 style="color: #A78176">Can I pet your dog?</h3>' + 
+    const expandContent = '<h3 style="color: #A78176">I Met a Dog!</h3>' + 
     '<span style="color: #EA9E49">' + 
     'This is a fun side project I developed to track the dogs I meet and interact with while living my life. Most are located in Central Arkansas, but with other regions included as I travel.<br><br>' + 
     'Some of the dogs are part of cross country transports of rescue dogs out of the South to the North East and Upper Midwest.<br><br>' + 
