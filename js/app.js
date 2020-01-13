@@ -107,7 +107,7 @@ function(
     };
 
     const dogsFL = new FeatureLayer({
-      url: "https://services.arcgis.com/mJnFdAAVXxEXrSpL/arcgis/rest/services/DOGS/FeatureServer",
+      url: 'https://services.arcgis.com/mJnFdAAVXxEXrSpL/arcgis/rest/services/DOGS_VIEW/FeatureServer',
       popupTemplate: popupTemplate,
       renderer: flRenderer,
     });
